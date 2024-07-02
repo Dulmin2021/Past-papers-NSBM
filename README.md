@@ -23,3 +23,8 @@ To get a local copy of the repository on your machine, follow these steps:
 
    ```sh
    git clone https://github.com/Dulmin2021/Past-papers-NSBM.git
+
+3. Navigate to the cloned directory:
+   ```sh
+   cd Past-papers-NSBM
+
